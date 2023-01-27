@@ -6,7 +6,7 @@
 * [Abstract](#abstract)
 * [Technologies Used](#technologies-used)
 * [Proposed System](#proposed-system)
-* [features](#features)
+* [Features](#features)
 * [Setup](#setup)
 <!-- * [License](#license) -->
 
